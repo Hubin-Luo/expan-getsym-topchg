@@ -1,0 +1,15 @@
+output:
+   central position      
+   relative vector     DMI vector
+
+steps:
+(1) obtain all DMI vectors around the considered central positions
+    within given distance
+    input:
+       number-of-inequivalent-DMI-vectors
+	central position   relative vector    DMI vector
+	central position   ....
+	...
+    print the result for check
+
+(2) do symmetry operation to get all DMI vectors around other positions

@@ -1,0 +1,22 @@
+fnm ncomp               ! name of the file with the positions and no. of components
+constc....= Y/N         ! constant composition or not
+iexch.....= 20          ! exchange the vac site to make composition constant
+bs1(1) bs1(2) bs1(3)    ! 1st primitive vector    
+bs2(1) bs2(2) bs2(3)    ! 2nd primitive vector
+bs3(1) bs3(2) bs3(3)    ! 3rd primitive vector
+abc(1) abc(2) abc(3)    ! size of supercell in unit of a (b,c may not be equal to a)
+nbs(1) nbs(2) nbs(3)    ! searching positions within the space in unit of primitive vectors
+csize slen              ! size of cluster(figures are generated within) and single point away from vacancy
+plen(1) plen(2)         ! pairs: away from vac and their size
+tlen(1) tlen(2)         ! triplets: away from vac and their size
+--------------------------------------------------
+OPR...= F               ! F: fitting; E: calculate surrogate energies
+-----------inputs for fitting(opr=F)----------------
+ne nesub
+isit(1)  ieng(1)
+isit(2)  ieng(2)
+...
+isit(ne) ieng(ne)
+-----------inputs for expansion(opr=E)--------------
+ECIs: atype  !!the number of ECIs below should coincide with that determined by slen,plen,tlen...
+f(i)...

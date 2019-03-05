@@ -1,0 +1,9 @@
+20            !number of atoms
+0.5 0 0       !reciprocal direction
+0 0 1         !viewed from which axis(must be vertical to q)
+30            !number of q points
+S 0.0         !screw(S) or cycloidal(C) and phase
+R             !Right-handed/clockwise or Left-handed/anti-clockwise
+     6.0546155485708040   -0.0000000000000000    0.0000000000000000
+     0.0000000000000000    6.0546155485708040    0.0000000000000000
+     0.0000000000000000    0.0000000000000000    6.0546155485708040

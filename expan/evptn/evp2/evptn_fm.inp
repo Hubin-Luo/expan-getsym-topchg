@@ -1,0 +1,6 @@
+"fe_fm.dos" "pt_fm.dos"
+2543 36883
+1458 1458                 ! number of atoms for each species   
+1458 1458		  ! number of energies in dos files
+-19713.443393
+600 20 1600

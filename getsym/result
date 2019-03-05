@@ -1,0 +1,168 @@
+ Rotation Matrices
+    1   0   0
+    0   1   0
+    0   0   1
+ translation
+  0.000000 0.000000 0.000000
+ 
+ Rotation Matrices
+    0  -1   0
+    1   0   0
+    0   0   1
+ translation
+  0.250000 0.750000 0.250000
+ 
+ Rotation Matrices
+   -1   0   0
+    0  -1   0
+    0   0   1
+ translation
+  0.500000 0.000000 0.500000
+ 
+ Rotation Matrices
+    0   1   0
+   -1   0   0
+    0   0   1
+ translation
+  0.250000 0.250000 0.750000
+ 
+ Rotation Matrices
+    1   0   0
+    0  -1   0
+    0   0  -1
+ translation
+  0.500000 0.500000 1.000000
+ 
+ Rotation Matrices
+    0  -1   0
+   -1   0   0
+    0   0  -1
+ translation
+  0.750000 0.750000 0.750000
+ 
+ Rotation Matrices
+   -1   0   0
+    0   1   0
+    0   0  -1
+ translation
+  1.000000 0.500000 0.500000
+ 
+ Rotation Matrices
+    0   1   0
+    1   0   0
+    0   0  -1
+ translation
+  0.750000 0.250000 0.250000
+ 
+ Rotation Matrices
+    0   0   1
+    1   0   0
+    0   1   0
+ translation
+  0.000000 0.000000 1.000000
+ 
+ Rotation Matrices
+    0   0   1
+    0  -1   0
+    1   0   0
+ translation
+  0.250000 0.250000 0.750000
+ 
+ Rotation Matrices
+    0   0   1
+   -1   0   0
+    0  -1   0
+ translation
+  0.500000 0.500000 1.000000
+ 
+ Rotation Matrices
+    0   0   1
+    0   1   0
+   -1   0   0
+ translation
+  0.750000 0.250000 0.250000
+ 
+ Rotation Matrices
+    0   0  -1
+    1   0   0
+    0  -1   0
+ translation
+  1.000000 0.500000 0.500000
+ 
+ Rotation Matrices
+    0   0  -1
+    0  -1   0
+   -1   0   0
+ translation
+  0.750000 0.750000 0.750000
+ 
+ Rotation Matrices
+    0   0  -1
+   -1   0   0
+    0   1   0
+ translation
+  0.500000 1.000000 0.500000
+ 
+ Rotation Matrices
+    0   0  -1
+    0   1   0
+    1   0   0
+ translation
+  0.250000 0.750000 0.250000
+ 
+ Rotation Matrices
+    0   1   0
+    0   0   1
+    1   0   0
+ translation
+  1.000000 0.000000 0.000000
+ 
+ Rotation Matrices
+    1   0   0
+    0   0   1
+    0  -1   0
+ translation
+  0.750000 0.250000 0.250000
+ 
+ Rotation Matrices
+    0  -1   0
+    0   0   1
+   -1   0   0
+ translation
+  1.000000 0.500000 0.500000
+ 
+ Rotation Matrices
+   -1   0   0
+    0   0   1
+    0   1   0
+ translation
+  0.250000 0.750000 0.250000
+ 
+ Rotation Matrices
+    0  -1   0
+    0   0  -1
+    1   0   0
+ translation
+  0.500000 1.000000 0.500000
+ 
+ Rotation Matrices
+   -1   0   0
+    0   0  -1
+    0  -1   0
+ translation
+  0.750000 0.750000 0.750000
+ 
+ Rotation Matrices
+    0   1   0
+    0   0  -1
+   -1   0   0
+ translation
+  0.500000 0.500000 1.000000
+ 
+ Rotation Matrices
+    1   0   0
+    0   0  -1
+    0   1   0
+ translation
+  0.250000 0.250000 0.750000
+ 

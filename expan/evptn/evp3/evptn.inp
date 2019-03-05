@@ -1,0 +1,6 @@
+"dos-fev" "dos-ptv" "dos-xv"
+2543 36883 3307
+2688 2688  1536           ! number of atoms for each species   
+300  300   300            ! number of energies in dos files
+-16067.651950
+600 20 1600
